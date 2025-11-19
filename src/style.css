@@ -18,10 +18,8 @@ body {
   align-items: center;
 }
 
-.logo__link {
-  background-color: red;
-
-  /* height: 40px; */
+.logo {
+  display: block;
 }
 
 .nav__list {
